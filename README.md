@@ -10,10 +10,15 @@ SocketIO 0.9x 的sdk
 https://github.com/koush/AndroidAsync
 
 SocketIO 1.0 原始库地址
+
 https://github.com/nkzawa/socket.io-client.java
+
 socket.io-client.java依赖下面两个库
+
 https://github.com/TooTallNate/Java-WebSocket
+
 https://github.com/nkzawa/engine.io-client.java
+
 
 ##欢迎批评指正
 
