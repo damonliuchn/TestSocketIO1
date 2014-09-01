@@ -6,10 +6,11 @@
 在doc文件夹里有打包好的jar包。
 如果想用纯java版的sdk，需要额外加入json包。
 
-SocketIO 0.9x 的sdk
+1、SocketIO 0.9x 的sdk
+
 https://github.com/koush/AndroidAsync
 
-SocketIO 1.0 原始库地址
+2、SocketIO 1.0 原始库地址
 
 https://github.com/nkzawa/socket.io-client.java
 
